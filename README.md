@@ -1,6 +1,7 @@
 # Presentation
 
-##중간발표
+## 중간발표
+
 The contents of the proposal (presentation is the summary of the proposal)
 
 1. Why we need the problem solving
