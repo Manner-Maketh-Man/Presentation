@@ -1,7 +1,6 @@
 # Presentation
 
-## 중간발표
-
+##중간발표
 The contents of the proposal (presentation is the summary of the proposal)
 
 1. Why we need the problem solving
@@ -45,13 +44,16 @@ The contents of the proposal (presentation is the summary of the proposal)
 서동환
 
 이다빈
+  담당파트: 4-b. Impact analysis to industry/society
+  [이다빈_presentation.pptx](https://github.com/Manner-Maketh-Man/Presentation/files/11139047/_presentation.pptx)
+  [이다빈_proposal.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11139064/_proposal.docx)
 
 위정명
 
 정우섭
-  담당파트 : 1. Why we need the problem solving
-[정우섭_presentation.pptx](https://github.com/Manner-Maketh-Man/Presentation/files/11138939/_presentation.pptx)
-[정우섭_proposal.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11138941/_proposal.docx)
+  담당파트: 1. Why we need the problem solving
+  [정우섭_presentation.pptx](https://github.com/Manner-Maketh-Man/Presentation/files/11138939/_presentation.pptx)
+  [정우섭_proposal.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11138941/_proposal.docx)
 
 중간발표 최종 제출물
 [ppt_최종본_2.pptx](https://github.com/Manner-Maketh-Man/Presentation/files/11138994/ppt_._2.pptx)
