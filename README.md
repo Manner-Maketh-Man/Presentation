@@ -43,6 +43,10 @@ The contents of the proposal (presentation is the summary of the proposal)
 백민재
 
 서동환
+   담당파트 : 3. Proposal of the implementation method
+   [서동환_presentation.pptx](https://github.com/Manner-Maketh-Man/Presentation/files/11147248/_presentation.pptx)
+   [서동환_proposal.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11147244/_proposal.docx)
+
 
 이다빈
    담당파트 : 4-b. Impact analysis to industry/society
@@ -51,7 +55,7 @@ The contents of the proposal (presentation is the summary of the proposal)
    
 위정명
 
-
+[MMM_proposal_최종본.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11147209/MMM_proposal_.docx)
 정우섭
   담당파트 : 1. Why we need the problem solving
   [정우섭_presentation.pptx](https://github.com/Manner-Maketh-Man/Presentation/files/11138939/_presentation.pptx)
