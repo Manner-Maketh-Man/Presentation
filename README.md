@@ -41,6 +41,10 @@ The contents of the proposal (presentation is the summary of the proposal)
 중간발표 각자 파트별 작업물
 
 백민재
+   담당파트 : 2. Solution Proposal
+   [백민재_presentation.pptx](https://github.com/Manner-Maketh-Man/Presentation/files/11200412/_presentation.pptx)
+   [백민재_proposal.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11200416/_proposal.docx)
+
 
 서동환
    담당파트 : 3. Proposal of the implementation method
