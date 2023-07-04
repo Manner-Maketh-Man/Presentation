@@ -1,8 +1,58 @@
 # Presentation
 
+## 최종발표
+
+The contents of the proposal (presentation is about the proposal)
+
+# 제출물
+[MannersMakethMan_final_presentation_ver3.pdf](https://github.com/Manner-Maketh-Man/Presentation/files/11943625/MannersMakethMan_final_presentation_ver3.pdf)
+[MannersMakethMan_final_proposal.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11943629/MannersMakethMan_final_proposal.docx)
+
+Contents
+1. PROBLEM DERIVATION	3
+    1-A) THE IMPORTANCE OF COMMUNICATION AND TEXT-BASED COMMUNICATION	3
+    1-B) PROBLEM DERIVATION	3
+    1-C) FIGURE OUT 7 PROBLEMS	3
+2. PROBLEM ANALYSIS	3
+    2-A) EVALUATION PROBLEMS	3
+    2-B) PROBLEM SELECTION	4
+    2-C) PROBLEM IDENTIFICATION AND ANALYSIS	4
+    2-D) SOLUTION RATIONALE	4
+3. SOLUTION PROPOSAL	5
+    3-A) SOLUTION OVERVIEW	5
+    3-B) WHY USERS NEED IT	5
+    3-C) THE VALUE OF APPLICATION	5
+    3-D) SCOPE OF APPLICATION (TARGET CUSTOMERS)	5
+4. BUSINESS PLAN: COMPETITIVE TECHNOLOGY ANALYSIS AND MARKET POSITIONING	6
+    4-A) CUSTOMER ANALYSIS	6
+    4-B) COMPETITIVE TECHNOLOGY ANALYSIS	7
+    4-C) COMPETITIVE ANALYSIS	7
+    4-D) MARKET POSITIONING STRATEGY	8
+    4-E) SUMMARY OF MARKET POSITIONING	8
+5. SETTING KPI TARGET	8
+    5-A) KPI – KGI / END PRODUCT	8
+    5-B) KPI – DESIGNING ARCHITECTURE	9
+    5-C) KPI – ML / FRONTEND / BACKEND	9
+6. TEAM COMPOSITION BASED ON ARCHITECTURE	9
+7. PROCESS-SPECIFIC KPI	11
+8. MACHINE LEARNING KPI ACHIEVEMENT	11
+    8-A) MODEL SELECTION	11
+    8-B) MODEL PERFORMANCE AND KPI	12
+9. FRONT-END & BACK-END KPI ACHIEVEMENT	16
+    9-A) FRONT-END & BACK-END KPI	16
+    9-B) CONNECTING COMPONENTS KPI	17
+    9-C) QUALITY CHECK KPI	18
+10. RISK ANALYSIS AND HEDGING	19
+    10-A) RISK ANALYSIS	19
+    10-B) RISK HEDGING	19
+11. FUTURE PLAN	20
+    11-A) POINTS TO BE SUPPLEMENTED	20
+    11-B) BUSINESS SCALABILITY	20
+12. REFERENCE	21
+
 ## 중간발표
 
-The contents of the proposal (presentation is the summary of the proposal)
+The contents of the proposal (presentation is about the proposal)
 
 1. Why we need the problem solving
 
@@ -69,6 +119,9 @@ The contents of the proposal (presentation is the summary of the proposal)
 [MMM_proposal_최종본.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11147220/MMM_proposal_.docx)
 [MMM_ppt_최종본.pptx](https://github.com/Manner-Maketh-Man/Presentation/files/11147222/MMM_ppt_.pptx)
 
-
+박동주 교수님 피드백 반영 version
+[MMM_proposal_review.pdf](https://github.com/Manner-Maketh-Man/Presentation/files/11943621/MMM_proposal_review.pdf)
+[MMM_proposal_review.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11943619/MMM_proposal_review.docx)
+[MMM_ppt_review.pptx](https://github.com/Manner-Maketh-Man/Presentation/files/11943617/MMM_ppt_review.pptx)
 
 
