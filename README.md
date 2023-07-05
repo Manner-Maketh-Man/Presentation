@@ -6,7 +6,8 @@ The contents of the proposal (presentation is about the proposal)
 
 # 제출물
 [MannersMakethMan_final_presentation_ver3.pdf](https://github.com/Manner-Maketh-Man/Presentation/files/11943625/MannersMakethMan_final_presentation_ver3.pdf)
-[MannersMakethMan_final_proposal.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11943629/MannersMakethMan_final_proposal.docx)
+[MannersMakethMan_final_proposal.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11954410/MannersMakethMan_final_proposal.docx)
+
 
 Contents
 1. PROBLEM DERIVATION	3
