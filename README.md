@@ -5,7 +5,7 @@
 The contents of the proposal (presentation is about the proposal)
 
 # 제출물
-[MannersMakethMan_final_presentation_ver3.pdf](https://github.com/Manner-Maketh-Man/Presentation/files/11943625/MannersMakethMan_final_presentation_ver3.pdf)
+[MannersMakethMan_final_presentation_ver3.pdf](https://github.com/Manner-Maketh-Man/Presentation/files/11943625/MannersMakethMan_final_presentation_ver3.pdf)  
 [MannersMakethMan_final_proposal.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11954410/MannersMakethMan_final_proposal.docx)
 
 
@@ -89,40 +89,40 @@ The contents of the proposal (presentation is about the proposal)
 
    - impact analysis to industry/society
 
-중간발표 각자 파트별 작업물
+중간발표 각자 파트별 작업물  
 
-백민재
-   담당파트 : 2. Solution Proposal
-   [백민재_presentation.pptx](https://github.com/Manner-Maketh-Man/Presentation/files/11200412/_presentation.pptx)
-   [백민재_proposal.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11200416/_proposal.docx)
+백민재  
+   담당파트 : 2. Solution Proposal  
+   [백민재_presentation.pptx](https://github.com/Manner-Maketh-Man/Presentation/files/11200412/_presentation.pptx)  
+   [백민재_proposal.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11200416/_proposal.docx)  
 
 
-서동환
-   담당파트 : 3. Proposal of the implementation method
-   [서동환_presentation.pptx](https://github.com/Manner-Maketh-Man/Presentation/files/11147248/_presentation.pptx)
+서동환  
+   담당파트 : 3. Proposal of the implementation method  
+   [서동환_presentation.pptx](https://github.com/Manner-Maketh-Man/Presentation/files/11147248/_presentation.pptx)  
    [서동환_proposal.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11147244/_proposal.docx)
 
 
-이다빈
-   담당파트 : 4-b. Impact analysis to industry/society
-   [이다빈_presentation.pptx](https://github.com/Manner-Maketh-Man/Presentation/files/11139196/_presentation.pptx)
-   [이다빈_proposal.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11139197/_proposal.docx)
+이다빈  
+   담당파트 : 4-b. Impact analysis to industry/society  
+   [이다빈_presentation.pptx](https://github.com/Manner-Maketh-Man/Presentation/files/11139196/_presentation.pptx)  
+   [이다빈_proposal.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11139197/_proposal.docx)  
    
-위정명
+위정명  
+[MMM_proposal_최종본.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11147209/MMM_proposal_.docx)  
 
-[MMM_proposal_최종본.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11147209/MMM_proposal_.docx)
-정우섭
-  담당파트 : 1. Why we need the problem solving
-  [정우섭_presentation.pptx](https://github.com/Manner-Maketh-Man/Presentation/files/11138939/_presentation.pptx)
-  [정우섭_proposal.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11138941/_proposal.docx)
+정우섭  
+  담당파트 : 1. Why we need the problem solving  
+  [정우섭_presentation.pptx](https://github.com/Manner-Maketh-Man/Presentation/files/11138939/_presentation.pptx)  
+  [정우섭_proposal.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11138941/_proposal.docx)  
 
-중간발표 최종 제출물
-[MMM_proposal_최종본.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11147220/MMM_proposal_.docx)
-[MMM_ppt_최종본.pptx](https://github.com/Manner-Maketh-Man/Presentation/files/11147222/MMM_ppt_.pptx)
+중간발표 최종 제출물  
+[MMM_proposal_최종본.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11147220/MMM_proposal_.docx)  
+[MMM_ppt_최종본.pptx](https://github.com/Manner-Maketh-Man/Presentation/files/11147222/MMM_ppt_.pptx)  
 
-박동주 교수님 피드백 반영 version
-[MMM_proposal_review.pdf](https://github.com/Manner-Maketh-Man/Presentation/files/11943621/MMM_proposal_review.pdf)
-[MMM_proposal_review.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11943619/MMM_proposal_review.docx)
-[MMM_ppt_review.pptx](https://github.com/Manner-Maketh-Man/Presentation/files/11943617/MMM_ppt_review.pptx)
+박동주 교수님 피드백 반영 version  
+[MMM_proposal_review.pdf](https://github.com/Manner-Maketh-Man/Presentation/files/11943621/MMM_proposal_review.pdf)  
+[MMM_proposal_review.docx](https://github.com/Manner-Maketh-Man/Presentation/files/11943619/MMM_proposal_review.docx)  
+[MMM_ppt_review.pptx](https://github.com/Manner-Maketh-Man/Presentation/files/11943617/MMM_ppt_review.pptx)  
 
 
